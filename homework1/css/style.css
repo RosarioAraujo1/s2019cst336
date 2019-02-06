@@ -1,0 +1,36 @@
+header,footer, nav{
+    text-align:center;
+}
+header{
+    border: 5px solid black;
+    outline-style: solid;
+    outline-color: blue;
+    
+}
+
+body{
+   
+    background-color: black;
+    color:white;
+}
+a{
+    padding: 20px;
+    color:white;
+    text-decoration: none;
+}
+p{
+    
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+
+
+.redblack{
+    border-radius: 25px;
+    margin: 15px;
+}
+.text{
+    float: right;
+    width: 50%;
+}
