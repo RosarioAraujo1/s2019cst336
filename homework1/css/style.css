@@ -1,36 +1,69 @@
-header,footer, nav{
-    text-align:center;
+header,
+footer,
+nav {
+    text-align: center;
 }
-header{
+
+header {
     border: 5px solid black;
     outline-style: solid;
     outline-color: blue;
-    
+
+
 }
 
-body{
-   
-    background-color: black;
-    color:white;
+h1 {
+    text-shadow: 0 0 6px #FF0000;
 }
-a{
+
+body {
+
+    background-color: black;
+    color: white;
+}
+
+a {
     padding: 20px;
-    color:white;
+    color: white;
     text-decoration: none;
 }
-p{
-    
+
+p {
+
     font-family: 'Indie Flower', cursive;
     font-size: 2em;
     margin-bottom: 0px;
 }
 
+.section {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+    margin-bottom: 0px;
+    text-overflow: ellipsis;
 
-.redblack{
+}
+
+.queue {
+    width: 50%;
+    height: 500px;
+    padding: 15px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+
+}
+
+
+.redblack {
     border-radius: 25px;
     margin: 15px;
+    transition: width 2s;
 }
-.text{
+
+.redblack:hover {
+    width: 300px;
+}
+
+.text {
     float: right;
     width: 50%;
 }
