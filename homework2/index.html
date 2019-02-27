@@ -2,45 +2,96 @@
 <html>
 
 <head>
-    <title> Let's Get to Know You! </title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>You </title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
-
 <body>
-
     <header>
-        <h1>Let's Get to Know You!</h1>
+        <img src="img/flowers.jpg" alt="flowers">
     </header>
 
-    <form>
-        <textarea name="message" style="width:200px; height:600px;">The cat was playing in the garden.</textarea>
-        <br>
-        <input type="submit">
-    </form>
+    <form name="myform" action="/action_page.php" action="/action_page.php" onsubmit="return validateForm()" method="post">
 
+        <div class="name">
+            Enter your name:
+            <input id="firstname" type="text"> You're name : <label for="firstname" id=first></label><br><br>
+            <input type="button" value="Submit" onclick="showData();" />
 
-    <form>
-        Enter your First Name:
-        <input name="firstname" type="text">
+        </div>
         <br><br>
-         Enter your Last Name:
-        <input name="lastname" type="text"><br>
-        
-       
+
+        <div class="colors">
+            <select name="favoriteColors">
+            <option value="blue" name="color">Blue</option>
+            <option value="pink" name="color">Pink</option>
+            <option value="black" name="color">Black</option>
+            <option value="red" name="color">Red</option>
+            <label for="favoriteColors" id="theColors"></label><br>
+            </select>
+            <br><br>
+            <input type="button" value="Submit" onclick="showData();" />
+        </div>
+        <br><br>
+
+
+        <div class="gender">
+            <select name="gender" size="2" multiple>
+            <option value="female">Female</option>
+            <option value="male">Male</option>
+            </select>
+            <br><br>
+            <button class="checker" type="submit">Submit</button>
+        </div>
+        <br><br>
+
+        <div class="message">
+
+            <textarea name="message" rows="10" cols="30">The cat was playing in the garden.</textarea>
+            <br>
+            <button class="checker" type="button">Submit</button>
+        </div>
+        <br><br>
+
+        <div class="question1">
+            <input type="radio" name="gender" value="male"> Male<br>
+            <input type="radio" name="gender" value="female"> Female<br>
+            <input type="radio" name="gender" value="other"> Other<br>
+            <button class="checker" type="submit">Submit</button>
+        </div>
+        <br><br>
+
+        <div class="question2">
+            <input type="radio" name="gender" value="male"> Male<br>
+            <input type="radio" name="gender" value="female"> Female<br>
+            <input type="radio" name="gender" value="other"> Other<br>
+            <button class="checker" type="submit">Submit</button>
+        </div>
+
+
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            function showData() {
+                var x = document.forms["myform"]["firstname"].value;
+                var fname = $("#firstname").val();
+                $("#first").html(fname);
+
+                if (x == "") {
+                    alert("Must be filled out!")
+                }
+                
+                window.alert($('[name=favoriteColors]').val());
+                window.alert($('[name=gender'].val());
+                window.alert($('[name=message]').val());
+                window.alert($())
+
+            }
+
+            
+        </script>
+
     </form>
-
- <button type="button" id="button">
-
-
-    <select name="carlist" form="carform">
-        <option value="volvo">Volvo</option>
-        <option value="saab">Saab</option>
-        <option value="opel">Opel</option>
-        <option value="audi">Audi</option>
-    </select>
-
-
 
 </body>
 
