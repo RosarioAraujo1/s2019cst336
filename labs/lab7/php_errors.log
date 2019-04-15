@@ -1,0 +1,190 @@
+[12-Apr-2019 21:44:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:44:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:45:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:47:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:48:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:48:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:48:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:50:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:53:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:54:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
+[12-Apr-2019 21:55:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'productPrice' cannot be null' in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab7/api/addProductAPI.php on line 17
