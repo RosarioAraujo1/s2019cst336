@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Project 5 </title>
+</head>
+
+<body>
+
+    <h1> Event picture Sharing </h1>
+
+    <form method="POST" action="upload.php" enctype="multipart/form-data">
+        Please add your email and caption of the image:<br>
+        <input id="emailInput" id="email" type="text" name="email" placeholder="Email.." /><br>
+        <input type="text" id="emailInput" id="caption" name="caption" placeholder="Caption.." /> <br> Select file(s) to upload:
+        <input type="file" multiple name="fileName" id="image" />
+        <input id="btn" class="inputCSS" type="submit" name="uploadForm" value="Upload File" />
+    </form>
+
+    <!--<div id="results"></div>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript.js"></script>
+
+
+</body>
+
+</html>

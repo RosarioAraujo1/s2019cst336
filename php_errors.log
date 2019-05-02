@@ -1,0 +1,54 @@
+[02-May-2019 01:17:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 01:18:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 01:18:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 01:18:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 21:45:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 22:32:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 22:38:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 22:40:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
+[02-May-2019 22:40:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'project5'' in /home/ubuntu/workspace/project5/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/project5/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/project5/upload.php(5): getDatabaseConnection('project5')
+#2 {main}
+  thrown in /home/ubuntu/workspace/project5/dbConnection.php on line 21
