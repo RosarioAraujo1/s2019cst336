@@ -64,3 +64,165 @@ Stack trace:
 #1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
 #2 {main}
   thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/getAll.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:37 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/removeLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
+[03-May-2019 23:20:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'image_grid'' in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php(21): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/labs/Lab8_Images/php/addLikes.php(5): getDatabaseConnection('image_grid')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab8_Images/dbConnection.php on line 21
