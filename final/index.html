@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Dashboard </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        td {
+            padding-left: 35px;
+        }
+
+        body {
+            margin: auto;
+            width: 80%;
+            margin-top: 5%;
+        }
+
+        table {
+            margin-top: 5%;
+        }
+        #add{
+            position: fixed;
+            top: 10%;
+            right:100px;
+        }
+    </style>
+</head>
+
+<body>
+    Invite Link: <input type="text" name="invite" />
+    <table>
+        <tr>
+            <td>Date</td>
+            <td>Start Time</td>
+            <td>End Time</td>
+            <td>Booked by</td>
+        </tr>
+    </table>
+
+    <button type="button" data-toggle="modal" data-target="#myModal" data-backdrop="static" data-keyboard="false" id="add">Add Multiple Time Slots </button>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Add Time Slot</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="modalInput">Date <input type="text" name="date"></p>
+                    <p class="modalInput">
+                        Start Time <input type="text" name="startTime" />
+                    </p>
+                    <p class="modalInput">
+                        End Time <input type="text" name="endTime" />
+                    </p>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button id="addTime" type="button" class="btn btn">Add</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="myModalDel" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Delete</h4>
+                </div>
+                <div class="modal-body-del">
+                   
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button id="del" type="button" class="btn btn">Delete</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script type="text/javascript" src="functions.js"></script>
+
+</body>
+
+</html>
